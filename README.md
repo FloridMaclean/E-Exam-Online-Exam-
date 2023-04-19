@@ -35,7 +35,7 @@ Using a camera module of their examination system and a dedicated camera placed 
 3) Profile Interface
 4) Exam Interface
 
-<img src="https://user-images.githubusercontent.com/70654351/232937729-b24b2073-34a0-4745-bc94-d55c7d1da4e2.png" width="200">
+<img src="https://user-images.githubusercontent.com/70654351/232937729-b24b2073-34a0-4745-bc94-d55c7d1da4e2.png" width="500">
 
 ## Technology
 
