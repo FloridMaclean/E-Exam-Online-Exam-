@@ -77,9 +77,7 @@ Other benefits are as below:
 ### Building the Project
 
 ## Dataset
-
 <h1 align="center">
-<br>
 <img src='https://user-images.githubusercontent.com/70654351/232940773-8e984695-bc05-4ebb-b499-5241f71576fa.png' width='400'>
 <br>
 <img src='https://user-images.githubusercontent.com/70654351/232940926-9252d3e2-d9ea-48ff-ac83-bdeef3c672a4.png' width='400'>
