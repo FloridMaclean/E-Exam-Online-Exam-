@@ -7,12 +7,16 @@
 </h1>
 
 <p align="center">
+  <a href="#poster">Poster</a> •
   <a href="#abstract">Abstract</a> •
   <a href="#user-interface">User Interface</a> •
   <a href="#technology">Technology</a> •
   <a href="#scope">Scope</a> •
   <a href="#conclusion">Conclusion</a>
 </p>
+
+## Poster
+<img src='https://user-images.githubusercontent.com/70654351/232941269-7f63dc86-ba1e-4921-9fd8-9d1caa54ea5d.jpg' width='400'>
 
 ## Abstract
 
