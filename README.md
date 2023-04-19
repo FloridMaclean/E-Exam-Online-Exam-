@@ -43,7 +43,11 @@ Using a camera module of their examination system and a dedicated camera placed 
 3) Profile Interface
 4) Exam Interface
 
+<h1 align="center">
+<br>
 <img src="https://user-images.githubusercontent.com/70654351/232937729-b24b2073-34a0-4745-bc94-d55c7d1da4e2.png" width="500">
+<br>
+</h1>
 
 ## Technology
 
@@ -73,7 +77,15 @@ Other benefits are as below:
 ### Building the Project
 
 ## Dataset
+
+<h1 align="center">
+<br>
 <img src='https://user-images.githubusercontent.com/70654351/232940773-8e984695-bc05-4ebb-b499-5241f71576fa.png' width='400'>
+<br>
 <img src='https://user-images.githubusercontent.com/70654351/232940926-9252d3e2-d9ea-48ff-ac83-bdeef3c672a4.png' width='400'>
+<br>
 <img src='https://user-images.githubusercontent.com/70654351/232940985-789fcd0b-ac0b-44f3-a6df-ccdc33a24364.png' width='400'>
+<br>
 <img src='https://user-images.githubusercontent.com/70654351/232941036-9b407a62-1c1e-4fee-b48c-1e3e28e97d2f.png' width='400'>
+<br>
+</h1>
