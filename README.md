@@ -6,12 +6,6 @@
   <br>
 </h1>
 
-<h1 align="center">
-  <br>
-  E-Exam: Academic Integrity Prevention
-  <br>
-</h1>
-
 <p align="center">
   <a href="#abstract">Abstract</a> •
   <a href="#user-interface">User Interface</a> •
@@ -41,7 +35,7 @@ Using a camera module of their examination system and a dedicated camera placed 
 3) Profile Interface
 4) Exam Interface
 
-![image](https://user-images.githubusercontent.com/70654351/232937729-b24b2073-34a0-4745-bc94-d55c7d1da4e2.png)
+<img src="https://user-images.githubusercontent.com/70654351/232937729-b24b2073-34a0-4745-bc94-d55c7d1da4e2.png" width="200">
 
 ## Technology
 
