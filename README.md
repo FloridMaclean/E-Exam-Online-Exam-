@@ -16,7 +16,9 @@
 </p>
 
 ## Poster
+<h1 align="center">
 <img align="center" src='https://user-images.githubusercontent.com/70654351/232941269-7f63dc86-ba1e-4921-9fd8-9d1caa54ea5d.jpg' width='400'>
+</h1>
 
 ## Abstract
 
