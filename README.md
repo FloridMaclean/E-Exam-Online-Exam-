@@ -65,17 +65,6 @@ Other benefits are as below:
 * Eliminate the chances of fake users
 * This can be used by all academic institutes for conducting their own exam as it offers more easiness and convenient way to interact with the system.
 
-## Conclusion
-
-* The introduction of a robust evaluation system in the academic industry has the potential to provide significant benefits to individuals, as it could effectively address major drawbacks inherent in contemporary examination practices. The elimination of paper usage, as this system is entirely paperless, could help to reduce the environmental impact of the education sector. Additionally, the need for examiners and invigilators would be significantly reduced, resulting in significant cost savings.
-
-* It is important to note that such a system must be reliable, secure, and efficient, with no potential for bias or error that could compromise the fairness and accuracy of evaluations. It should also be recognized that technology is not a replacement for the vital role that human teachers and mentors play in guiding and evaluating students' learning and growth. Instead, it should be viewed as a tool that complements traditional teaching methods.
-
-* Overall, the implementation of a dependable and efficient automated evaluation system has the potential to enhance the academic experience for both students and educators. By eliminating the flaws of the conventional examination system and enhancing the accuracy and fairness of evaluations, this system has the potential to create a more comprehensive and holistic academic experience.
-
-
-### Building the Project
-
 ## Dataset
 <h1 align="center">
 <img src='https://user-images.githubusercontent.com/70654351/232940773-8e984695-bc05-4ebb-b499-5241f71576fa.png' width='400'>
@@ -87,3 +76,11 @@ Other benefits are as below:
 <img src='https://user-images.githubusercontent.com/70654351/232941036-9b407a62-1c1e-4fee-b48c-1e3e28e97d2f.png' width='400'>
 <br>
 </h1>
+
+## Conclusion
+
+* The introduction of a robust evaluation system in the academic industry has the potential to provide significant benefits to individuals, as it could effectively address major drawbacks inherent in contemporary examination practices. The elimination of paper usage, as this system is entirely paperless, could help to reduce the environmental impact of the education sector. Additionally, the need for examiners and invigilators would be significantly reduced, resulting in significant cost savings.
+
+* It is important to note that such a system must be reliable, secure, and efficient, with no potential for bias or error that could compromise the fairness and accuracy of evaluations. It should also be recognized that technology is not a replacement for the vital role that human teachers and mentors play in guiding and evaluating students' learning and growth. Instead, it should be viewed as a tool that complements traditional teaching methods.
+
+* Overall, the implementation of a dependable and efficient automated evaluation system has the potential to enhance the academic experience for both students and educators. By eliminating the flaws of the conventional examination system and enhancing the accuracy and fairness of evaluations, this system has the potential to create a more comprehensive and holistic academic experience.
